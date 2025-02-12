@@ -8,7 +8,7 @@
 - **مدیریت خدمات جیرا (Jira Service Management)** (برای مدیریت درخواست‌های IT و خدمات مشتریان)
 - **مدیریت کار جیرا (Jira Work Management)ا** (برای مدیریت وظایف عمومی کسب‌وکار)
 
-### ویدیو آشنایی با جیرا 
+### 🎥 ویدیو آشنایی با جیرا 
 [![Video Title](https://github.com/user-attachments/assets/8e043034-f20e-4848-8d3a-049cf4257353
 )](https://www.youtube.com/watch?v=obf7h7lSHsA)
 
